@@ -4,8 +4,8 @@
 
 An interactive 3D visualization dashboard exploring global statistics through spatial data representation.
 
-![Dashboard Preview](https://github.com/user-attachments/assets/a5d9093a-6134-4854-bcc6-3c94b64e3bfc=600x400)
-*(Click image to interact with live dashboard)*
+![Dashboard Preview](https://github.com/user-attachments/assets/a5d9093a-6134-4854-bcc6-3c94b64e3bfc)
+
 
 ## ✨ Key Features
 - **3D Globe Navigation**
